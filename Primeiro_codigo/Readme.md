@@ -1,0 +1,1 @@
+Pretendo usar como primeiro exercicio no github a exploração de um codigo de javascript, afim de compreender a linguagem e entender como é feita a chamada das aplicações dos equipamentos de ultrassom.
