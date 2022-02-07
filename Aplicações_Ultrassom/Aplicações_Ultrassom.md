@@ -1,0 +1,1 @@
+Esta branch será para analisar as aplicações dos aparelhos de ultrassom, suas caracteristicas do ponto de vista da programação enfatizando o Script que chama as aplicações, seus bancos de dados e suas configurações de limitação de acessos e comandos quando abertas.
